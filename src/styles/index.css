@@ -1,3 +1,26 @@
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  font-size: 2rem;
+  padding: 20px;
+}
+
+.digit {
+  width: 40px;
+  height: 60px;
+  margin: 0 5px;
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 10px;
+}
 
 /* 
 
